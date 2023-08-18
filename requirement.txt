@@ -25,6 +25,7 @@ fastjsonschema==2.18.0
 filelock==3.12.2
 Flask==2.3.2
 fqdn==1.5.1
+heroku==0.1.4
 idna==3.4
 ipykernel==6.25.0
 ipython==8.14.0
@@ -75,12 +76,10 @@ psutil==5.9.5
 pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.15.1
-python-dateutil==2.8.2
+python-dateutil==1.5
 python-json-logger==2.0.7
 python-slugify==8.0.1
 pytz==2023.3
-pywin32==306
-pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.0
 qtconsole==5.4.3
